@@ -4,10 +4,6 @@ import { createMuiTheme } from '@material-ui/core/styles';
 import { red } from '@material-ui/core/colors';
 
 export const theme = createMuiTheme({
-  body: {
-    margin: 0,
-    padding: 0,
-  },
   typography: {
     fontFamily: [
       'system-ui',
